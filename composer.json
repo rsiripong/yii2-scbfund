@@ -1,0 +1,21 @@
+{
+    "name": "rsiripong/yii2-scbfund",
+    "description": "scbfund",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "siripong rungsang",
+            "email": "siripong.rungsang@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rsiripong\\scbfund\\": ""
+        }
+    }
+}
