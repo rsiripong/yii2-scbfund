@@ -19,6 +19,7 @@ class Module extends BaseModule
         
     }
     
+    
       public function getMenu()
     {
        return [
@@ -35,6 +36,7 @@ class Module extends BaseModule
                ]
        ];
     }
+    
     
        public function registerTranslations()
     {
